@@ -1,0 +1,29 @@
+.footer-container {
+  width: 60%;
+  margin: auto;
+  padding: 2rem 0rem;
+}
+svg {
+  width: 12rem;
+  color: rgb(9, 87, 54);
+  margin: 20px auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.5;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+ul li {
+  margin-right: 15px;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
